@@ -20,11 +20,11 @@ Main parts of the game:
 
 Use these keys:
 
-* ^ move up
-* v move down
-* < move left
-* > move right
-* q quit game
+* '^' move up
+* 'v' move down
+* '<' move left
+* '>' move right
+* 'q' quit game
 
 ## Project Structure
 
